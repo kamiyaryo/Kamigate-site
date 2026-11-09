@@ -1,0 +1,131 @@
+header{
+    background:#26d0c9;
+    height: 100px;
+    color:white;
+    margin:0px;
+}
+.header-logo{
+    font-size:36px;
+    float:left;
+    padding: 20px 40px;
+}
+.header-list li{
+    float:left;
+    list-style:none;
+    padding: 33px 20px;
+}
+body{
+    margin:0;
+}
+.copy-container span{
+    color:#ff4a4a;
+}
+.main{
+    padding:100px 80px;
+}
+.copy-container h1{
+    font-family: "Arial Black", Arial, sans-serif;
+    font-size: 140px;
+    font-weight: 900;
+    margin:0px;
+    letter-spacing: -3px;
+}
+.copy-container h2{
+    font-size: 60px;
+    font-weight: bold;
+    margin:0px;
+    padding-bottom: 60px;
+}
+/*コンテンツ欄*/
+.contents-logo{
+    font-size:28px;
+    border-bottom:1px solid #dee7ec;
+    padding-bottom:15px;
+    font-weight: bold;
+}
+.lesson-item{
+    float:left;
+    list-style:none;
+    margin-right:35px;
+}
+.lesson-card{
+    color:white;
+    background: #26d0c9;
+    width: 130px;
+    height: 130px;
+    padding: 40px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.lesson-card img{
+    width: 150px;
+    max-width: 100%;
+    height: auto;
+}
+.html-card{
+    background:#49cda5;
+}
+.PHP-card{
+    background:#c4c3e8;
+}
+.Ruby-card{
+    background:#fa8395;
+}
+.Swift-card{
+    background:#ffd080;
+}
+.contents ul{
+    display: flow-root;
+    padding-left: 0px;
+}
+/*お問合せ欄*/
+.contact-form h3{
+    font-size:28px;
+    margin-top: 60px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #dee7ec;
+}
+.contact-form label{
+    display:block;
+    margin-top:20px;
+}
+.contact-form input[type='email'],
+.contact-form textarea{
+    width: 300px;
+    padding: 20px;
+    margin-top: 10px;
+}
+.contact-form input[type='submit']{
+    display:block;
+    margin-top:20px;
+    width: 340px;
+    height: 60px;
+    background: #dee7ec;
+    color:#889eab;
+    border: none;
+}
+/*footer*/
+footer{
+    color:white;
+    background:#2f3a4a;
+    padding:40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+.footer-logo{
+    font-size:32px;
+}
+.footer-list ul{
+    float:right;
+    margin: 0;
+    padding: 0;
+}
+.footer-list li{
+    list-style:none;
+    padding-bottom:20px;
+}
