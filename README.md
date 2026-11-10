@@ -9,7 +9,7 @@ https://kamiyaryo.github.io/Kamigate-site/
 
 ## 開発目的
 
-ProgateでHTMLとCSSの基礎学習をしたのちに、
+ProgateでHTMLとCSSの基礎学習をした内容について、
 できる限り正解のコードを見ずに実装練習するために開発しました。
 
 ## 使用技術
