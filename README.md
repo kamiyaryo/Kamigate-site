@@ -9,19 +9,20 @@ https://kamiyaryo.github.io/Kamigate-site/
 
 ## 開発目的
 
-HTMLとCSSの基本構造を理解し、実際にWebサイトを制作する経験を積むために開発しました。
+ProgateでHTMLとCSSの基礎学習をしたのちに、
+できる限り正解のコードを見ずに実装練習するために開発しました。
 
 ## 使用技術
 
 - HTML
 - CSS
 - Git / GitHub
-- GitHub Pages
+- Github Pages
 
 ## 実装内容
 
 - ヘッダーの作成
-- 学習コンテンツのカード表示
+- 学習コンテンツの表示
 - 画像の配置
 - CSSによるレイアウト調整
 
